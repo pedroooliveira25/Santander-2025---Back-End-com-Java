@@ -1,1 +1,1 @@
-# Santander-2025---Back-End-com-Java
+Neste espaço, irei compartilhar meu aprendizado durante o bootcamp, registrando meu progresso e conhecimentos adquiridos, mesmo que ainda sejam básicos.
